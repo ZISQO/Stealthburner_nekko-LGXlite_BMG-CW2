@@ -7,6 +7,7 @@ Stealth Burner nekko ear type for BMG with filament sensor and LGX Light for CW2
 - 2x Jst 2.54 connector for soldered that lead of Omron D2F_L microswitch
 
 
+
 # Totally Aseembled
 ![afterassembled](https://github.com/ZISQO/Stealthburner_nekko-LGXlite_BMG-CW2/blob/main/image/3.jpg)
 
