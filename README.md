@@ -7,14 +7,14 @@ Stealth Burner nekko ear type for BMG with filament sensor and LGX Light for CW2
 - 2x Jst 2.54 connector for soldered that lead of Omron D2F_L microswitch
 
 </br></br>
-- Totally Aseembled
+- Totally view
 ![afterassembled](https://github.com/ZISQO/Stealthburner_nekko-LGXlite_BMG-CW2/blob/main/image/3.jpg)
 
-- Assembled Extruer Gear Part
+- extruer gear part
 ![egp](https://github.com/ZISQO/Stealthburner_nekko-LGXlite_BMG-CW2/blob/main/image/1.png)
 
 
-- Installed Filament sensor for ERCF with 7mm steel-ball (rather than AH3364 sensor)
+- Installed filament sensor for ERCF with 7mm steel-ball (rather than AH3364 sensor)
 ![steel](https://github.com/ZISQO/Stealthburner_nekko-LGXlite_BMG-CW2/blob/main/image/2.jpg)
 
 
