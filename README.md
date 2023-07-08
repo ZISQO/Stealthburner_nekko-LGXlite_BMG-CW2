@@ -1,4 +1,4 @@
-# Stealthburner_neko-LGXlite_BMG-CW2
+# Stealthburner Nekko RMX
 Stealth Burner nekko ear type for BMG with filament sensor and LGX Light for CW2
 
 - 1x PC4 M6 fitting
