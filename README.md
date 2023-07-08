@@ -30,7 +30,7 @@ Stealth Burner nekko ear type for BMG with filament sensor and LGX Light for CW2
 
 
 ![ssa](https://github.com/ZISQO/Stealthburner_nekko-LGXlite_BMG-CW2/blob/main/image/b.png)
-- The latch-part must be printed with'em
+- The latch part should be printed to avoid interfering with the extruder body
 
 
 ![ssa](https://github.com/ZISQO/Stealthburner_nekko-LGXlite_BMG-CW2/blob/main/image/c.png)
