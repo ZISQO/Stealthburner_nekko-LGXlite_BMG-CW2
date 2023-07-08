@@ -32,7 +32,7 @@ Stealth Burner nekko ear type for BMG with filament sensor and LGX Light for CW2
 
 
 ![ssa](https://github.com/ZISQO/Stealthburner_nekko-LGXlite_BMG-CW2/blob/main/image/c.png)
-- Set the Align seam position to use the 'Align option on print setting' to hide the seam line better than drawing it
+- Set the Align seam position to use the 'Align option on print setting' to hide the seam line better than drawing it on ya' hands
 
 
 
